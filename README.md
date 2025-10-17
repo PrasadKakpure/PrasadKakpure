@@ -22,10 +22,10 @@
 
 ## Certifications 🏅
 
-- RHCSA
-- CEH
-- eJPT (In Process)
-- OSCP (Planning)
+- RHCSA — completed  
+- CEH — completed  
+- eJPT — in progress  
+- OSCP — planning
 
 ---
 
@@ -76,15 +76,10 @@ Repos link:- `PrasadKakpure/repo-name`
 
 ---
 <p align="center">
-  <a href="www.linkedin.com/in/prasadkakpure">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
-  </a>
-  <a href="[YOUR_TRYHACKME_URL](https://tryhackme.com/p/baghera)">
-    <img src="https://img.shields.io/badge/TryHackMe-black?logo=tryhackme&logoColor=white" />
-  </a>
-  <a href="[YOUR_HTB_URL](https://account.hackthebox.com/dashboard)">
-    <img src="https://img.shields.io/badge/HackTheBox-green?logo=hackthebox&logoColor=white" />
-  </a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasadkakpure)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-000000?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/baghera)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-1DBF00?logo=hackthebox&logoColor=white)](https://account.hackthebox.com/profile/dashboard)
+
 </p>
 
 ---
@@ -96,6 +91,12 @@ Repos link:- `PrasadKakpure/repo-name`
 
 ###
 I build reproducible labs and practical detection workflows. If you would like to collaborate on a SIEM rule, ransomware lab, or threat-hunting challenge, please don't hesitate to ping me.
+
+---
+
+## Contact / Collaboration
+Open to collaborating on SIEM rules, detection playbooks, and threat-hunting challenges.  
+Ping me: prasadkakpure5@gmail.com • https://www.linkedin.com/in/prasadkakpure
 
 ---
 
