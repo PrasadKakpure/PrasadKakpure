@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hi, I'm Prasad Kakpure  
-🎯 A passionate **Cybersecurity Enthusiast** from India 🇮🇳
+🎯 A passionate **Cybersecurity Enthusiast** from India (🇮🇳)
 
 </div>
 
@@ -37,8 +37,8 @@
 
   <!-- Cybersecurity specific -->
   <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/splunk.svg" width="40" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Wireshark_Logo.svg" width="40" height="40" />
   <img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Wireshark_Logo.svg" width="40" height="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Burp_Suite_Logo.svg" width="40" height="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Nmap-logo.svg" width="40" height="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/Wazuh_logo.svg" width="80" height="40" />
@@ -87,7 +87,7 @@ Repos link:- `PrasadKakpure/repo-name`
 
 ---
 
-### A short note
+###
 I build reproducible labs and practical detection workflows. If you would like to collaborate on a SIEM rule, ransomware lab, or threat-hunting challenge, please don't hesitate to ping me.
 
 ---
