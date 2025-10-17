@@ -27,8 +27,8 @@
 ---
 
 ### 📊 GitHub Stats
-![Prasad's GitHub stats]([https://github-readme-stats.vercel.app/api?PrasadKakpure=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight](https://github.com/PrasadKakpure))
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+![Prasad's GitHub stats]([https://github-readme-stats.vercel.app/api?PrasadKakpure=PrasadKakpure&show_icons=true&theme=tokyonight](https://github.com/PrasadKakpure))
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?PrasadKakpure=PrasadKakpure&layout=compact&theme=tokyonight)
 
 ---
 
