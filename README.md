@@ -19,6 +19,13 @@
 
 ---
 
+
+## Certifications
+- CEH
+- RHCSA
+
+---
+
 ### 🧰 Languages & Tools I Use
 <p align="left">
   <img src="https://skillicons.dev/icons?i=linux,python,bash,wireshark,github,html,css,js,vscode,metasploit" />
@@ -47,20 +54,7 @@
 ![Prasad's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrasadKakpure&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrasadKakpure&layout=compact&theme=tokyonight)
 
----
 
-## Certifications & Platforms
-- RHCSA (in progress)  
-- CEH (in progress)  
-- TryHackMe: `your-tryhackme-username`  <!-- replace or remove -->
-- HackTheBox: `your-htb-username`  <!-- replace or remove -->
-
----
-
-
-### 📊 GitHub Stats
-![Prasad's GitHub stats]([https://github-readme-stats.vercel.app/api?PrasadKakpure=PrasadKakpure&show_icons=true&theme=tokyonight](https://github.com/PrasadKakpure))
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrasadKakpure&layout=compact&theme=tokyonight)
 
 ---
 
@@ -68,3 +62,16 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/prasadkakpure)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-red?logo=tryhackme&logoColor=white)]([YOUR_TRYHACKME_PROFILE](https://tryhackme.com/p/baghera))
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-green?logo=hackthebox&logoColor=white)]([YOUR_HTB_PROFILE](https://account.hackthebox.com/dashboard))
+
+---
+
+### 📊 GitHub Stats
+![Prasad's GitHub stats]([https://github-readme-stats.vercel.app/api?PrasadKakpure=PrasadKakpure&show_icons=true&theme=tokyonight](https://github.com/PrasadKakpure))
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrasadKakpure&layout=compact&theme=tokyonight)
+
+---
+### A short note
+I build reproducible labs and practical detection workflows. If you want to collaborate on a SIEM rule, ransomware lab, or threat-hunt challenge, ping me.
+
+---
+
