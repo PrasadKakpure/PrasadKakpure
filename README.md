@@ -53,15 +53,7 @@
 ---
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Wireshark_icon.svg" width="45" height="45" alt="Wireshark" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Nmap-logo.svg" width="60" height="45" alt="Nmap" />
-  <img src="https://github.com/wazuh/wazuh/raw/master/logo.png" width="80" height="45" alt="Wazuh" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Burp_Suite_Logo.svg" width="45" height="45" alt="Burp Suite" />
-</p>
-
----
-<p align="center">
-Incident Response, Threat Hunting, SIEM, Malware Analysis, Network Security, Pentesting basics
+Pentesting basics, Incident Response, Threat Hunting, SIEM, Malware Analysis, Network Security
 </p>
 
 ---
