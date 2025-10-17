@@ -23,6 +23,8 @@
 ## Certifications
 - CEH
 - RHCSA
+- eJPT (In Process)
+- OSCP (In Process)
 
 ---
 
@@ -32,12 +34,9 @@
 </p>
 
 ---
-## Skills & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,python,bash,wireshark,splunk,git,docker,js" alt="skills" />
-</p>
 
-**Areas:** Incident Response, Threat Hunting, SIEM, Malware Analysis, Network Security, Pentesting basics
+
+Incident Response, Threat Hunting, SIEM, Malware Analysis, Network Security, Pentesting basics
 
 ---
 
@@ -46,7 +45,7 @@
 - **Email phishing detection** — scripts and Splunk dashboards for suspicious email indicators (`phishing-detection`)  
 - **Log parsing utilities** — small Python tools for normalizing logs and generating alerts (`log-utils`)
 
-*(Create these repos and link them here once ready: `username/repo-name`)*
+*Repos link:- `PrasadKakpure/repo-name`
 
 ---
 
@@ -65,9 +64,7 @@
 
 ---
 
-### 📊 GitHub Stats
-![Prasad's GitHub stats]([https://github-readme-stats.vercel.app/api?PrasadKakpure=PrasadKakpure&show_icons=true&theme=tokyonight](https://github.com/PrasadKakpure))
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrasadKakpure&layout=compact&theme=tokyonight)
+
 
 ---
 ### A short note
