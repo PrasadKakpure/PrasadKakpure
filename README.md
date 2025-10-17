@@ -20,21 +20,15 @@
 ---
 
 
-## Certifications
+## Certifications 🏅
 
 - RHCSA
 - CEH
 - eJPT (In Process)
-- OSCP (In Process)
+- OSCP (Planning)
 
 ---
 
-### 🧰 Languages & Tools I Use
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,python,bash,wireshark,github,html,css,js,vscode,metasploit" />
-</p>
-
----
 ### 🧰 Tools & Technologies
 
 <p align="center">
@@ -56,10 +50,12 @@ Incident Response, Threat Hunting, SIEM, Malware Analysis, Network Security, Pen
 
 ---
 
-## Projects & Labs
-- **Ransomware detection lab** — Wazuh + Windows VM + simulated ransomware (notes in repo `ransomware-lab`)  
-- **Email phishing detection** — scripts and Splunk dashboards for suspicious email indicators (`phishing-detection`)  
-- **Log parsing utilities** — small Python tools for normalizing logs and generating alerts (`log-utils`)
+## 🧠 Current Projects
+
+- 🕵️ **Ransomware Detection Lab** — Using Wazuh + Splunk  
+- ✉️ **Phishing Email Analysis** — Detecting malicious headers  
+- 📈 **Log Monitoring System** — Automated alerts for suspicious events  
+
 
 Repos link:- `PrasadKakpure/repo-name`
 
@@ -70,13 +66,23 @@ Repos link:- `PrasadKakpure/repo-name`
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrasadKakpure&layout=compact&theme=tokyonight)
 
 
+---
+<p align="center">
+  <a href="www.linkedin.com/in/prasadkakpure">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="[YOUR_TRYHACKME_URL](https://tryhackme.com/p/baghera)">
+    <img src="https://img.shields.io/badge/TryHackMe-black?logo=tryhackme&logoColor=white" />
+  </a>
+  <a href="[YOUR_HTB_URL](https://account.hackthebox.com/dashboard)">
+    <img src="https://img.shields.io/badge/HackTheBox-green?logo=hackthebox&logoColor=white" />
+  </a>
+</p>
 
 ---
-
-### 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/prasadkakpure)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-red?logo=tryhackme&logoColor=white)]([YOUR_TRYHACKME_PROFILE](https://tryhackme.com/p/baghera))
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-green?logo=hackthebox&logoColor=white)]([YOUR_HTB_PROFILE](https://account.hackthebox.com/dashboard))
+<p align="center">
+  💬 *"Security is not a product, it's a process." – Bruce Schneier*
+</p>
 
 ---
 
