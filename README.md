@@ -32,9 +32,6 @@
 ### 🧰 Tools & Technologies
 
 <p align="center">
-  <!-- Dev basics -->
-  <img src="https://skillicons.dev/icons?i=linux,python,bash,vscode,git,github,html,css,js" height="40" />
-
   <!-- Cybersecurity specific -->
   <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/splunk.svg" width="40" height="40" />
   <img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" width="40" height="40" />
@@ -43,6 +40,23 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Nmap-logo.svg" width="50" height="50" alt="Nmap"/>
   <img src="https://raw.githubusercontent.com/wazuh/wazuh-dashboard/main/plugins/wazuh/public/assets/images/logo.png" width="50" height="50" alt="Wazuh"/>
 
+ <!-- Dev basics -->
+  <img src="https://skillicons.dev/icons?i=linux,python,bash,vscode,git,github,html,css,js" height="40" />
+
+</p>
+
+---
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45" height="45" alt="Bash" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Wireshark_icon.svg" width="45" height="45" alt="Wireshark" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Nmap-logo.svg" width="60" height="45" alt="Nmap" />
+  <img src="https://github.com/wazuh/wazuh/raw/master/logo.png" width="80" height="45" alt="Wazuh" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Burp_Suite_Logo.svg" width="45" height="45" alt="Burp Suite" />
 </p>
 
 ---
