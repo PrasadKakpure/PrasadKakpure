@@ -40,8 +40,8 @@
   <img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/wireshark.svg" width="40" height="40" alt="Wireshark"/>
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/burpsuite.svg" width="40" height="40" alt="Burp Suite"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nmap.svg" width="40" height="40" alt="Nmap"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/wazuh.svg" width="80" height="40" alt="Wazuh"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Nmap-logo.svg" width="40" height="40" alt="Nmap"/>
+  <img src="https://raw.githubusercontent.com/wazuh/wazuh-dashboard/main/plugins/wazuh/public/assets/images/logo.png" width="80" height="40" alt="Wazuh"/>
 
 </p>
 
