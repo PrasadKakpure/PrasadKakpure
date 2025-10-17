@@ -8,7 +8,7 @@
 - 🔐 Currently learning **Ethical Hacking, SIEM tools (Splunk, Wazuh), and Malware Analysis**  
 - 💻 Working on **Phishing & Ransomware Detection Projects**  
 - 🧠 Exploring **Threat Hunting, Red Teaming & Incident Response**  
-- 📫 Reach me at: **yourmail@example.com**  
+- 📫 Reach me at: **prasadkakpure5@gmail.com**  
 - ⚡ Fun fact: *In cybersecurity, even small misconfigurations can open big doors.*
 
 ---
