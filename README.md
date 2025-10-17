@@ -21,8 +21,9 @@
 
 
 ## Certifications
-- CEH
+
 - RHCSA
+- CEH
 - eJPT (In Process)
 - OSCP (In Process)
 
@@ -34,7 +35,22 @@
 </p>
 
 ---
+### 🧰 Tools & Technologies
 
+<p align="center">
+  <!-- Dev basics -->
+  <img src="https://skillicons.dev/icons?i=linux,python,bash,vscode,git,github,html,css,js" height="40" />
+
+  <!-- Cybersecurity specific -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Wireshark_Logo.svg" width="40" height="40" />
+  <img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Burp_Suite_Logo.svg" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Nmap-logo.svg" width="40" height="40" />
+  <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/splunk.svg" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/Wazuh_logo.svg" width="80" height="40" />
+</p>
+
+---
 
 Incident Response, Threat Hunting, SIEM, Malware Analysis, Network Security, Pentesting basics
 
@@ -45,7 +61,7 @@ Incident Response, Threat Hunting, SIEM, Malware Analysis, Network Security, Pen
 - **Email phishing detection** — scripts and Splunk dashboards for suspicious email indicators (`phishing-detection`)  
 - **Log parsing utilities** — small Python tools for normalizing logs and generating alerts (`log-utils`)
 
-*Repos link:- `PrasadKakpure/repo-name`
+Repos link:- `PrasadKakpure/repo-name`
 
 ---
 
@@ -64,11 +80,8 @@ Incident Response, Threat Hunting, SIEM, Malware Analysis, Network Security, Pen
 
 ---
 
-
-
----
 ### A short note
-I build reproducible labs and practical detection workflows. If you want to collaborate on a SIEM rule, ransomware lab, or threat-hunt challenge, ping me.
+I build reproducible labs and practical detection workflows. If you would like to collaborate on a SIEM rule, ransomware lab, or threat-hunting challenge, please don't hesitate to ping me.
 
 ---
 
