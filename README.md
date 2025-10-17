@@ -38,10 +38,11 @@
   <!-- Cybersecurity specific -->
   <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/splunk.svg" width="40" height="40" />
   <img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" width="40" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Wireshark_Logo.svg" width="40" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Burp_Suite_Logo.svg" width="40" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Nmap-logo.svg" width="40" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/Wazuh_logo.svg" width="80" height="40" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/wireshark.svg" width="40" height="40" alt="Wireshark"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/burpsuite.svg" width="40" height="40" alt="Burp Suite"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nmap.svg" width="40" height="40" alt="Nmap"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/wazuh.svg" width="80" height="40" alt="Wazuh"/>
+
 </p>
 
 ---
