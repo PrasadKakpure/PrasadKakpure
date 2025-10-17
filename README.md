@@ -37,17 +37,17 @@
 
   <!-- Cybersecurity specific -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Wireshark_Logo.svg" width="40" height="40" />
+  <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/splunk.svg" width="40" height="40" />
   <img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" width="40" height="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Burp_Suite_Logo.svg" width="40" height="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Nmap-logo.svg" width="40" height="40" />
-  <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/splunk.svg" width="40" height="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/Wazuh_logo.svg" width="80" height="40" />
 </p>
 
 ---
-
+<p align="center">
 Incident Response, Threat Hunting, SIEM, Malware Analysis, Network Security, Pentesting basics
-
+</p>
 ---
 
 ## 🧠 Current Projects
@@ -81,7 +81,7 @@ Repos link:- `PrasadKakpure/repo-name`
 
 ---
 <p align="center">
-  💬 *"Security is not a product, it's a process." – Bruce Schneier*
+  💬 "Security is not a product, it's a process." – Bruce Schneier
 </p>
 
 ---
