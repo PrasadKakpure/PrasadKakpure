@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hi, I'm Prasad Kakpure  
-🎯 A passionate **Cybersecurity Enthusiast** from India  
+🎯 A passionate **Cybersecurity Enthusiast** from India 🇮🇳
 
 </div>
 
@@ -36,8 +36,8 @@
   <img src="https://skillicons.dev/icons?i=linux,python,bash,vscode,git,github,html,css,js" height="40" />
 
   <!-- Cybersecurity specific -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Wireshark_Logo.svg" width="40" height="40" />
   <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/splunk.svg" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Wireshark_Logo.svg" width="40" height="40" />
   <img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" width="40" height="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Burp_Suite_Logo.svg" width="40" height="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Nmap-logo.svg" width="40" height="40" />
@@ -48,6 +48,7 @@
 <p align="center">
 Incident Response, Threat Hunting, SIEM, Malware Analysis, Network Security, Pentesting basics
 </p>
+
 ---
 
 ## 🧠 Current Projects
