@@ -78,12 +78,6 @@ I break things ethically to make systems stronger.
 
 Repos link:- `PrasadKakpure/repo-name`
 
----
-
-## GitHub stats
-![Prasad's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrasadKakpure&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrasadKakpure&layout=compact&theme=tokyonight)
-
 
 ---
 <h3 align="left">Connect with me:</h3>
@@ -114,9 +108,16 @@ I build reproducible labs and practical detection workflows. If you would like t
 
 ---
 
+
 ## Contact / Collaboration
 Open to collaborating on SIEM rules, detection playbooks, and threat-hunting challenges.  
 Ping me: prasadkakpure5@gmail.com • https://www.linkedin.com/in/prasadkakpure
+
+---
+
+## GitHub stats
+![Prasad's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrasadKakpure&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrasadKakpure&layout=compact&theme=tokyonight)
 
 ---
 
