@@ -42,61 +42,29 @@ I break things ethically to make systems stronger.
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/burpsuite.svg" width="40" height="40" alt="Burp Suite"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Nmap-logo.svg" width="50" height="50" alt="Nmap"/>
   <img src="https://raw.githubusercontent.com/wazuh/wazuh-dashboard/main/plugins/wazuh/public/assets/images/logo.png" width="50" height="50" alt="Wazuh"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Elastic_Stack_logo.svg" width="45" height="45" alt="Elastic Stack (ELK)"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Suricata_Logo.svg" width="60" height="40" alt="Suricata"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45" height="45" alt="Bash" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" width="50" height="50" alt="VirtualBox"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/VMware_logo.svg" width="65" height="40" alt="VMware"/>
+   <img src="https://www.svgrepo.com/show/448223/virustotal.svg" width="45" height="45" alt="VirusTotal"/>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Maltego-logo.png" width="45" height="45" alt="Maltego"/>
+   <img src="https://www.svgrepo.com/show/452170/shodan.svg" width="45" height="45" alt="Shodan"/>
 
  <!-- Dev basics -->
   <img src="https://skillicons.dev/icons?i=vscode,html,css,js" height="40" />
 
 </p>
 
----
-
-## 🧰 Tools & Technologies
-
-<p align="center">
-
-  <!-- 🛡️ SIEM & Detection -->
-  <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/splunk.svg" width="45" height="45" alt="Splunk"/>
-  <img src="https://raw.githubusercontent.com/wazuh/wazuh-dashboard/main/plugins/wazuh/public/assets/images/logo.png" width="50" height="50" alt="Wazuh"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Elastic_Stack_logo.svg" width="45" height="45" alt="Elastic Stack (ELK)"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Suricata_Logo.svg" width="60" height="40" alt="Suricata"/>
-  <img src="https://zeek.org/wp-content/uploads/2017/03/zeek-logo.png" width="60" height="40" alt="Zeek"/>
-
-  <!-- 🧪 Analysis & Forensics -->
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/wireshark.svg" width="45" height="45" alt="Wireshark"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/burpsuite.svg" width="45" height="45" alt="Burp Suite"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Nmap-logo.svg" width="50" height="50" alt="Nmap"/>
-  <img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" width="50" height="50" alt="Metasploit"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/yara.svg" width="45" height="45" alt="YARA"/>
-  <img src="https://www.svgrepo.com/show/448223/virustotal.svg" width="45" height="45" alt="VirusTotal"/>
-
-  <!-- 🌐 OSINT & Recon -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Maltego-logo.png" width="45" height="45" alt="Maltego"/>
-  <img src="https://www.svgrepo.com/show/452170/shodan.svg" width="45" height="45" alt="Shodan"/>
-
-  <!-- 💻 Languages & Scripting -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45" height="45" alt="Bash"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45" alt="Linux"/>
-
-  <!-- ⚙️ Lab & Virtualization -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" width="50" height="50" alt="VirtualBox"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/VMware_logo.svg" width="65" height="40" alt="VMware"/>
-
-  <!-- 🔧 Utilities -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
-
-</p>
 
 ---
 
-
+### 🔐 Core Skill Areas
 <p align="center">
-Pentesting basics, Incident Response, Threat Hunting, SIEM, Malware Analysis, Network Security
+• Malware Analysis • Network Security •SIEM • Threat Hunting • Malware Analysis • Incident Response • Pentesting • OSINT • Log Monitoring
 </p>
 
 ---
