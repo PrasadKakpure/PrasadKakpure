@@ -33,13 +33,13 @@
 
 <p align="center">
   <!-- Cybersecurity specific -->
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45" alt="Linux" />
   <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/splunk.svg" width="40" height="40" />
   <img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/wireshark.svg" width="40" height="40" alt="Wireshark"/>
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/burpsuite.svg" width="40" height="40" alt="Burp Suite"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Nmap-logo.svg" width="50" height="50" alt="Nmap"/>
   <img src="https://raw.githubusercontent.com/wazuh/wazuh-dashboard/main/plugins/wazuh/public/assets/images/logo.png" width="50" height="50" alt="Wazuh"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45" alt="Linux" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45" height="45" alt="Bash" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git" />
