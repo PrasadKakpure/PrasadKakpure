@@ -97,6 +97,8 @@ Repos link:- `PrasadKakpure/repo-name`
   <a href="https://app.hackthebox.com/profile" target="_blank">
     <img src="https://img.shields.io/badge/HackTheBox-1DBF00?logo=hackthebox&logoColor=white" alt="HackTheBox"/>
   </a>
+  <a href="https://www.reddit.com/user/XploitR_404/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white" alt="Reddit"/>
 </p>
 
 
