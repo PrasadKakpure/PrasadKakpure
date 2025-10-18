@@ -87,11 +87,17 @@ Repos link:- `PrasadKakpure/repo-name`
 
 ---
 <p align="center">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasadkakpure)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-000000?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/baghera)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-1DBF00?logo=hackthebox&logoColor=white)](https://account.hackthebox.com/profile/dashboard)
-
+  <a href="https://www.linkedin.com/in/prasadkakpure" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://tryhackme.com/p/baghera" target="_blank">
+    <img src="https://img.shields.io/badge/TryHackMe-black?logo=tryhackme&logoColor=white" alt="TryHackMe"/>
+  </a>
+  <a href="https://app.hackthebox.com/profile" target="_blank">
+    <img src="https://img.shields.io/badge/HackTheBox-1DBF00?logo=hackthebox&logoColor=white" alt="HackTheBox"/>
+  </a>
 </p>
+
 
 ---
 <p align="center">
