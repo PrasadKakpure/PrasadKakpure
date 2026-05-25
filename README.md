@@ -24,8 +24,8 @@ I break things ethically to make systems stronger.
 
 ## Certifications 🏅
 
-- RHCSA — completed  
-- CEH — completed  
+- CEH — completed
+- RHCSA — completed    
 - eJPT — in progress  
 - OSCP — planning
 
